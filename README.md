@@ -1,2 +1,2 @@
-# studentOfTheGame
+# StudentOfTheGame
 Yamsayin, we in the lab
